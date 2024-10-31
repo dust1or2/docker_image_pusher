@@ -1,3 +1,4 @@
 nginx
 lmsysorg/sglang:latest
 vllm/vllm-openai:latest
+qwenllm/qwenvl:latest
