@@ -3,3 +3,4 @@ lmsysorg/sglang:latest
 vllm/vllm-openai:latest
 qwenllm/qwenvl:latest
 harryliu888/cosyvoice:latest
+docker.io/nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
