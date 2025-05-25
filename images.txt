@@ -8,3 +8,5 @@ eosphorosai/dbgpt:latest
 nvidia/cuda:12.1.0-runtime-ubuntu22.04
 ghcr.io/all-hands-ai/openhands:0.39.2
 ghcr.io/all-hands-ai/runtime:0.39.2-nikolaik
+docker.all-hands.dev/all-hands-ai/openhands:362090c
+docker.all-hands.dev/all-hands-ai/runtime:362090c-nikolaik
